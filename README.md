@@ -10,9 +10,13 @@
 </a>
 <br/>
 
+---
+
 <p>
   Hello world my name is Egemen. I am going to High School and ı am interested of scripting, codeing and gaming.
 </p>
+
+---
 
 ### Languages and Tools:
 
