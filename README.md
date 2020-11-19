@@ -1,7 +1,4 @@
 ### Hello World, My name is Egemen [My Website](https://egmdev.xyz/) 👋
-
----
-
 <a href="https://discord.gg/CCExrpU">
   <img align="left" alt="My Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -12,14 +9,9 @@
   <img align="left" alt="My Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-
----
-
 <p>
   Hello world my name is Egemen. I am going to High School and ı am interested of scripting, codeing and gaming.
 </p>
-
----
 
 ### Languages and Tools:
 
@@ -36,8 +28,6 @@
 
 <br />
 <br />
-
----
 
 <pre>
 “Only two things are infinite, the universe and human stupidity, and I am not sure about the former.” 
