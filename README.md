@@ -1,4 +1,7 @@
 ### Hello World, My name is Egemen [My Website](https://egmdev.xyz/) 👋
+
+---
+
 <a href="https://discord.gg/CCExrpU">
   <img align="left" alt="My Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
